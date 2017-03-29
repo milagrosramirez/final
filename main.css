@@ -12,11 +12,9 @@ header{
    padding: 7% 0%;
 }
 #tea{
-     
-   width: 20%;
-    height: 50%;
-    text-align: center;
-    margin: 11% 39%;
+     position: absolute;
+    top: 15px;
+    left: 20%;
     
     
 }
@@ -64,6 +62,9 @@ header{
 #taza{
     background-color: rgb(255, 255, 153);
     background-size: cover;
+}
+#preguntas h5{
+    font-size: 65px;
 }
 
 .pasos h5{
