@@ -1,0 +1,87 @@
+.telovers h1{
+    text-align: center;
+    font-size: 65px;
+    color: white;
+   padding: 7% 0%;
+}
+#tea{
+     border: 4px solid white;
+   width: 20%;
+    height: 50%;
+    text-align: center;
+    margin: 11% 39%;
+    
+    
+}
+.telovers{
+    background-image: url("img/parallax-1.jpg");
+   background-size: cover;
+    height: 686px;   
+}
+.nuestraPasion{
+    background-image: url(img/parallax-3.jpg);
+    background-size: cover;
+    height: 686px;   
+}
+#pasion{
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+}
+#pasion h1{
+    font-size: 80px;
+}
+#pasion p{
+    font-size: 18px;
+}
+/*--sabores-----*/
+.sabores h2{
+    color: rgb(255, 105, 156);
+    font-size: 53px;
+}
+.sabores{
+    padding: 60px 0px;
+}
+/*-----collage-----*/
+/*----sobreELtE----*/
+.sobreElTe h4{
+    font-size: 60px;
+    text-align: center;
+    padding: 18% 0%;
+    color: white;
+}
+.sobreElTe{
+    background-image: url(img/parallax-2.jpg);
+}
+/*---pasos--*/
+#taza{
+    background-color: rgb(255, 255, 153);
+    background-size: cover;
+}
+
+.pasos h5{
+    font-size: 60px;
+}
+.pasos{
+    padding: 8%;
+    text-align: center;
+}
+/*---losCampos----*/
+.losCampos{
+    background-image: url(img/parallax-4.jpg);
+}
+.losCampos h6{
+text-align: center;
+    color: white;
+    padding: 18%
+0%;
+font-size: 65px;
+}
+/*----carrusel---*/
+.carrusel{
+  
+    background-size: cover;
+}
+
+
+/*# sourceMappingURL=main.css.map */
